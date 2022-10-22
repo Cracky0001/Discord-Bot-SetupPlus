@@ -18,7 +18,9 @@
 </p>
 
 ## Features
-
+* Current Setups
+  - Gaming
+  - Friends
 * Delete and create channel
   - Delete all default channel and build new category's and channel
 * Create Roles
