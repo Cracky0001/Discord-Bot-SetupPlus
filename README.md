@@ -14,7 +14,8 @@
   <a href="#how-to-use">How To Use</a> •
   <a href="#invite">Invite</a> •
   <a href="#credits">Credits</a> •
-  <a href="#problems">Problems</a>
+  <a href="#problems">Problems</a> •
+  [Commands](https://github.com/Cracky0001/Discord-Bot-SetupPlus/blob/main/Commands.md)
 </p>
 
 ## Features
