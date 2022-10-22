@@ -30,9 +30,13 @@
 
   For mor open the [Change Log](https://github.com/Cracky0001/Discord-Bot-SetupPlus/blob/main/Change%20Log.md).
 
+## Invite
+
+You can [Invite](https://discord.com/api/oauth2/authorize?client_id=986625767398051840&permissions=8&scope=bot%20applications.commands) the latest version of Setup+ for Discord.
+
 ## Commands
 
-You can find all Commands [here](https://github.com/Cracky0001/Discord-Bot-SetupPlus/blob/main/Commands.md)
+All commands can be found [here](https://github.com/Cracky0001/Discord-Bot-SetupPlus/blob/main/Commands.md)
 
 ## How To Use
 ```
@@ -46,11 +50,6 @@ Use the followed command:
 `/info`
 
 The bot tells you everything else.
-
-## Invite
-
-You can [Invite](https://discord.com/api/oauth2/authorize?client_id=986625767398051840&permissions=8&scope=bot%20applications.commands) the latest version of Setup+ for Discord.
-
 
 ## Problems?
 
