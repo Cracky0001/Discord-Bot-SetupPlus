@@ -27,6 +27,8 @@
   - Setup+ creates roles and gives you the highest created role with admin privileges
 * Leaves the server after setup (you can invite Setup+ again if you want!)
 
+  For mor open the [Change Log](https://github.com/Cracky0001/Discord-Bot-SetupPlus/blob/main/Change%20Log.md).
+
 ## How To Use
 ```
                                      ================Important===============
