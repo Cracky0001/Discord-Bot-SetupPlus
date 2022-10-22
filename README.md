@@ -14,7 +14,8 @@
   <a href="#how-to-use">How To Use</a> •
   <a href="#invite">Invite</a> •
   <a href="#credits">Credits</a> •
-  <a href="#problems">Problems</a> 
+  <a href="#problems">Problems</a> •
+  <a href= "#commands">Commands</a>
 </p>
 
 ## Features
@@ -28,6 +29,10 @@
 * Leaves the server after setup (you can invite Setup+ again if you want!)
 
   For mor open the [Change Log](https://github.com/Cracky0001/Discord-Bot-SetupPlus/blob/main/Change%20Log.md).
+
+## Commands
+
+You can find all Commands [here](https://github.com/Cracky0001/Discord-Bot-SetupPlus/blob/main/Commands.md)
 
 ## How To Use
 ```
@@ -46,13 +51,6 @@ The bot tells you everything else.
 
 You can [Invite](https://discord.com/api/oauth2/authorize?client_id=986625767398051840&permissions=8&scope=bot%20applications.commands) the latest version of Setup+ for Discord.
 
-## Credits
-
-This software uses the following open source packages:
-
-- [DBM](https://store.steampowered.com/app/682130/Discord_Bot_Maker/#:~:text=Discord%20Bot%20Maker%20is%20powerful,the%20bot%20of%20their%20dreams!)
-- [Node.js](https://nodejs.org/)
-
 
 ## Problems?
 
@@ -60,6 +58,13 @@ If you have any problems, feel free to leave me a message on [Discord](https://d
 </p>
 <a href="https://discord.com/users/507464069100601363" target="_blank"> <img src="https://discord.c99.nl/widget/theme-4/507464069100601363.png">  </a>
 </a>
+
+## Credits
+
+This software uses the following open source packages:
+
+- [DBM](https://store.steampowered.com/app/682130/Discord_Bot_Maker/#:~:text=Discord%20Bot%20Maker%20is%20powerful,the%20bot%20of%20their%20dreams!)
+- [Node.js](https://nodejs.org/)
 
 ---
 
