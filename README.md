@@ -29,11 +29,11 @@
 
 ## How To Use
 ```
-                                       ================Important===============
-                                            Use the bot only on raw servers
-                                            or you will probably destroy 
-                                                 your current server!
-                                       ========================================
+                                     ================Important===============
+                                         Use the bot only on raw servers
+                                           or you will probably destroy 
+                                               your current server!
+                                     ========================================
 ```
 Use the followed command:
 `/info`
@@ -56,7 +56,7 @@ This software uses the following open source packages:
 
 If you have any problems, feel free to leave me a message on [Discord](https://discord.com/users/507464069100601363) or describe your problem [here](https://github.com/Cracky0001/Discord-Bot-Setup-/issues)
 </p>
-<a href="https://discord.com/users/507464069100601363"> <img src="https://discord.c99.nl/widget/theme-4/507464069100601363.png">  </a>
+<a href="https://discord.com/users/507464069100601363" target="_blank"> <img src="https://discord.c99.nl/widget/theme-4/507464069100601363.png">  </a>
 </a>
 
 ---
