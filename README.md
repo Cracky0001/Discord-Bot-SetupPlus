@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <br>
   <a href="https://i.imgur.com/eVfQ5oJ.png"><img src="https://i.imgur.com/eVfQ5oJ.png" alt="Markdownify" width="200"></a>
@@ -7,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Setup+ is out now</h4>
+<h4 align="center">Setup+ will help you set up your server!</h4>
 
 <p align="center">
   <a href="#features">Features</a> •
@@ -17,6 +16,15 @@
   <a href="#problems">Problems</a> •
   <a href= "#commands">Commands</a>
 </p>
+
+## What does Setup+ do?
+
+Setup+ will help you set up your own discord server. Setup+ has different templates that you can choose from.
+Depending on the template, setup+ then creates text and voice channels, categories and roles for you.
+
+Don't like servers littered with bots?
+Setup automatically leaves the server immediately after setup, since it is then no longer required.
+If that's not even practical. :)
 
 ## Features
 * Current Setups
@@ -32,7 +40,8 @@
 
 ## Invite
 
-You can [Invite](https://discord.com/api/oauth2/authorize?client_id=986625767398051840&permissions=8&scope=bot%20applications.commands) the latest version of Setup+ for Discord.
+You can [Invite](https://discord.com/api/oauth2/authorize?client_id=986625767398051840&permissions=8&scope=bot%20applications.commands) the latest version of Setup+ for Discord.  
+Or check [Discord Bot List](https://discordbotlist.com/bots/setup)
 
 ## Commands
 
@@ -70,4 +79,3 @@ This software uses the following open source packages:
 > [www.crackyfadeaway.de](https://www.crackyfadeaway.de) &nbsp;&middot;&nbsp;
 > GitHub [@Cracky0001](https://github.com/Cracky0001) &nbsp;&middot;&nbsp;
 > Discord [@Cracky#0001](https://discord.com/users/507464069100601363)
-
