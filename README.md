@@ -26,7 +26,13 @@
 * Leaves the server after setup (you can invite Setup+ again if you want!)
 
 ## How To Use
-
+```
+                                       ================Important===============
+                                            Use the bot only on raw servers
+                                            or you will probably destroy 
+                                                 your current server!
+                                       ========================================
+```
 Use the followed command:
 `/info`
 
